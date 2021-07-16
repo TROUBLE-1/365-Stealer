@@ -1884,7 +1884,7 @@ $db = new SQLite3("$listing->databasePath");
             text-align: center;">
             <center >
                <p style="margin-top:10px"><a href="https://twitter.com/trouble1_raunak" target="_blank" style="color:#ffffff"> <img src="assets/img/twitter.png" width="30px"><b> @trouble1_raunak</b></a>&emsp;&emsp;&emsp;|&emsp;&emsp;&emsp;
-                  <a href="https://github.com/alteredsecurity/365-Stealer" target="_blank" style="color:#ffffff"><img src="assets/img/GitHub.png" width="30px"><b> 365-Stealer</b></a>
+                  <a href="https://github.com/TROUBLE-1/365-Stealer" target="_blank" style="color:#ffffff"><img src="assets/img/GitHub.png" width="30px"><b> 365-Stealer</b></a>
                </p>
             </center>
          </div>
